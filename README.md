@@ -32,4 +32,4 @@
    npm run dev
    ```
 
-4. **Accès :** Ouvrez votre navigateur et accédez à http://localhost:3000 pour utiliser l'application.
+4. **Accès :** Ouvrez votre navigateur et accédez à http://localhost:8080 pour utiliser l'application.
