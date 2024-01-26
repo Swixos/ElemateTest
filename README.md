@@ -2,8 +2,8 @@
 
 ## Description
 
-Design en bootstrap
-API utilisée : https://www.petfinder.com/developers/
+- Design en bootstrap
+- API utilisée : https://www.petfinder.com/developers/
 
 ## Objectif
 
