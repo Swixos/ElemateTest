@@ -2,6 +2,7 @@
 
 ## Description
 
+- Environnement en Vue3 & TypeScript
 - Design en bootstrap
 - API utilisée : https://www.petfinder.com/developers/
 
