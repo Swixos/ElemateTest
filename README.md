@@ -9,6 +9,7 @@
 ## Objectif
 
 - **Requête :** récupérer le nom, le type, la photo et l’url de l’animal,
+- **Filtre :** réaliser un filtre par type d'animaux,
 - **Limite :** limiter à 50 animaux.
 
 ## Comment Utiliser
