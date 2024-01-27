@@ -29,7 +29,7 @@
 3. **Lancement :** Exécutez l'application.
 
    ```bash
-   npm run dev
+   npm run serve
    ```
 
 4. **Accès :** Ouvrez votre navigateur et accédez à http://localhost:8080 pour utiliser l'application.
